@@ -1,0 +1,6 @@
+streamlit 
+pypdf 
+python-docx 
+transformers
+sentencepiece
+PyPDF2
